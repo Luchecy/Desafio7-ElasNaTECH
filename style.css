@@ -21,7 +21,7 @@ body{
 }
 
 .cabecalho{
-    background-image: url(Imagens/bg.jpg);
+    background-image: url(Imagens/bg.png);
     background-attachment: fixed;
     height: 658px;
     background-size: cover; /*  para a foto preencher  */
